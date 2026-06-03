@@ -33,3 +33,5 @@ tsne_pairs_plot(cachexia, tsne_res3D, column.class = "Muscle.loss")
 # pairs com kmeans
 tsne_pairs_kmeans_plot(cachexia, tsne_res3D, num.clusters = 3)
 
+
+teste123455
