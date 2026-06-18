@@ -22,20 +22,20 @@ This repository contains the deliverables and source code for the project
 
 ## Documents
 
-### 📄 State of the Art
+### State of the Art
 An initial survey of existing metabolomics analysis tools and unsupervised
 learning methods, covering specmine, WebSpecmine, MetaboAnalyst, XCMS Online,
 MZmine, PCA, ICA, UMAP, and t-SNE.
 
 [Estado_da_arte_projeto.pdf](./Estado_da_arte_projeto.pdf)
 
-### 📊 Project Presentation
+### Project Presentation
 Slide deck presenting the project objectives, implemented contributions,
 and key results.
 
 [Apresentação Projeto.pdf](./Apresentação%20Projeto.pdf)
 
-### 📝 Final Paper
+### Final Paper
 Conference paper submitted in LNCS format describing the full implementation
 and validation of the new unsupervised learning capabilities in specmine
 and WebSpecmine.
